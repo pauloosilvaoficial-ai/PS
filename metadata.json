@@ -1,0 +1,7 @@
+{
+  "name": "Paulo Silva - Business Intelligence",
+  "description": "Um sistema premium de controle de vendas e lucros personalizado para Paulo Silva, com análise inteligente de dados e gestão de inventário visual.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
